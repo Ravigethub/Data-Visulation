@@ -1,0 +1,1 @@
+select *from retail.dbo.['Retail']
